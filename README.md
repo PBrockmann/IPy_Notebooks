@@ -1,2 +1,1 @@
-IPy_Notebooks
-=============
+My collection of notebooks
