@@ -1,0 +1,34 @@
+Patrick Brockmann - 2014/12/11
+
+#======================================================
+Matplotlib/Basemap and netcdf4-python example
+http://nbviewer.ipython.org/gist/jswhit/8635533
+
+Change forcecast to current day
+
+#======================================================
+Extract NECOFS water levels using NetCDF4-Python and analyze/visualize with PandasExtract NECOFS water levels using NetCDF4-Python and analyze/visualize with Pandas
+http://nbviewer.ipython.org/gist/rsignell-usgs/4740419
+
+#======================================================
+Widgets in IPython notebooks
+http://nbviewer.ipython.org/github/FRidh/ipython/blob/master/examples/Interactive%20Widgets/Index.ipynb
+http://nbviewer.ipython.org/github/adrn/ipython/blob/master/examples/Interactive%20Widgets/Factoring.ipynb
+
+#======================================================
+pyferret
+https://github.com/PBrockmann/ipython-ferretmagic
+
+#======================================================
+pyferret and widgets
+http://nbviewer.ipython.org/github/PBrockmann/ipython-ferretmagic/blob/master/ferretmagic_06_InteractWidget.ipynb
+
+#======================================================
+R and Rmagics
+http://www.randalolson.com/2013/01/14/filling-in-pythons-gaps-in-statistics-packages-with-rmagic/
+
+#======================================================
+Notebooks from Roberto De Almeida (marinexplore.com)
+http://nbviewer.ipython.org/github/robertodealmeida/notebooks/blob/master/scientific_american/Scientific%20American%20graph.ipynb
+http://nbviewer.ipython.org/github/robertodealmeida/notebooks/blob/master/whale_migration/Analyzing%20tracks.ipynb
+
