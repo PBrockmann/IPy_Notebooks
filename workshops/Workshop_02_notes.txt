@@ -32,3 +32,6 @@ Notebooks from Roberto De Almeida (marinexplore.com)
 http://nbviewer.ipython.org/github/robertodealmeida/notebooks/blob/master/scientific_american/Scientific%20American%20graph.ipynb
 http://nbviewer.ipython.org/github/robertodealmeida/notebooks/blob/master/whale_migration/Analyzing%20tracks.ipynb
 
+#======================================================
+Unidata python workshop
+http://nbviewer.ipython.org/github/Unidata/unidata-python-workshop/tree/master/
