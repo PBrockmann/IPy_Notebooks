@@ -19,9 +19,11 @@ http://nbviewer.ipython.org/github/adrn/ipython/blob/master/examples/Interactive
 pyferret
 https://github.com/PBrockmann/ipython-ferretmagic
 
-#======================================================
 pyferret and widgets
 http://nbviewer.ipython.org/github/PBrockmann/ipython-ferretmagic/blob/master/ferretmagic_06_InteractWidget.ipynb
+
+Discover other notebooks
+http://nbviewer.ipython.org/github/PBrockmann/ipython-ferretmagic/tree/master/
 
 #======================================================
 R and Rmagics
